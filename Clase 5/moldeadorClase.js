@@ -21,5 +21,5 @@ class MoldeadorPersonaClase {
   }
 }
 
-var personaV2 = new MoldeadorPersona("pepe", 60, 30, 1000, 300);
+var personaV2 = new MoldeadorPersonaClase("pepe", 60, 30, 1000, 300);
 console.log(personaV2);
